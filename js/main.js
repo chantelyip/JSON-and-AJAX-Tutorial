@@ -1,3 +1,4 @@
+//example of JSON: objects in arrays, nested inside of each other
 var thePets = [
 {
     "name": "Meowsalot",
